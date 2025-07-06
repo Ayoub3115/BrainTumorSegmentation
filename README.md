@@ -1,6 +1,6 @@
 # 🧠 Brain Tumor Dataset: Brain Tumor Segmentation
 
-The third dataset used in this project is the Brain Tumor Dataset, publicly available on Kaggle and originally published by Jun Cheng on Figshare 1. This dataset contains brain MRI images labeled for the study of intracranial tumors, and it is widely used in automated classification and segmentation tasks in neuroimaging.
+The third dataset used in this project is the Brain Tumor Dataset, publicly available on Kaggle and originally published by Jun Cheng . This dataset contains brain MRI images labeled for the study of intracranial tumors, and it is widely used in automated classification and segmentation tasks in neuroimaging.
 
 The images are categorized into three tumor types:
 	•	Glioma
